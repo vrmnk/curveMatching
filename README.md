@@ -1,2 +1,2 @@
 # curveMatching
-# This repository contains code whcih will check if two input curves are the same.
+# This repository contains code which will check if two input curves are the same.
