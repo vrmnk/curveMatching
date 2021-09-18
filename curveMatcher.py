@@ -1,3 +1,4 @@
+# code for matching straight lines
 int DTWDistance(s: array [1..n], t: array [1..m]) {
     DTW := array [0..n, 0..m]
 
