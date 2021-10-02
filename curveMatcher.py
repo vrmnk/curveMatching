@@ -16,15 +16,3 @@ int DTWDistance(s: array [1..n], t: array [1..m]) {
 
     return DTW[n, m]
 }
-
-## string comparison sample
-# text1 = str("Naveen")
-# text2 = str("Naveen")
-  
-# if text1 == text2:
-  
-#     print ("Same")
-  
-# else:
-  
-#     print ("Not same")
